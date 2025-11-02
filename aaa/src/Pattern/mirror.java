@@ -24,7 +24,7 @@ public class mirror {
 				{
 					System.out.print("* ");
 				}
-				System.out.println(" ");
+				System.out.println("  ");
 			}
 		
 			
